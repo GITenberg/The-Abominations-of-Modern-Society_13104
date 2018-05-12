@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5618
     wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13104#The-Abominations-of-Modern-Society
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
 identifiers:
