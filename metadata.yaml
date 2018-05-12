@@ -1,0 +1,36 @@
+_repo: The-Abominations-of-Modern-Society_13104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talmage, T. De Witt (Thomas De Witt)
+    aliases:
+    - Talmage, Thomas De Witt
+    - Talmage, T. DeWitt (Thomas De Witt)
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '5618'
+    url: http://www.gutenberg.org/2009/agents/5618
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+description: ''
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+tableOfContents: 'The Curtain Lifted -- Winter Nights -- The Power of Clothes -- After
+  Midnight -- The Indiscriminate Dance -- The Massacre by Needle and Sewing-Machine
+  -- Pictures in the Stock Gallery -- Leprous Newspapers -- The Fatal Ten-Strike --
+  Some of the Club-Houses -- Flask, Bottle, and Demijohn -- House of Blackness of
+  Darkness -- The Gun that Kicks over the Man who Shoots it off -- Lies: White and
+  Black -- The Good Time Coming'
+title: The Abominations of Modern Society
+url: http://www.gutenberg.org/ebooks/13104
